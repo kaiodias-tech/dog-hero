@@ -1,0 +1,3 @@
+robotframework
+robotframework-faker
+--upgrade robotframework-appiumlibrary
